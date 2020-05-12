@@ -1,0 +1,12 @@
+/*
+/*/
+
+!/.gitignore
+!/ranger/
+!/vimium-options.json
+!/zsh/
+/zsh/*
+!/zsh/.zshrc
+!/jesseduffield/
+/jesseduffield/lazygit/*
+!/jesseduffield/lazygit/config.yml

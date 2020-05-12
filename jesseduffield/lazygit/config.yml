@@ -1,0 +1,22 @@
+reporting: "off"
+startuppopupversion: 1
+branches:
+  viewgitflowoptions: h
+commits:
+  togglediffcommit: h
+files:
+  ignorefile: h
+keybinding:
+  universal:
+    nextblock-alt: l
+    nextitem-alt: k
+    prevblock-alt: j
+    previtem-alt: i
+    scrolldownmain-alt1: K
+    scrollupmain-alt1: I
+  files:
+    ignoreFile: 'h'
+  branches:
+    viewGitFlowOptions: 'h'
+  commits:
+    toggleDiffCommit: 'h'
