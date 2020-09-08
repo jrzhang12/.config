@@ -7,6 +7,7 @@
 !/zsh/
 /zsh/*
 !/zsh/.zshrc
+!/zsh/*.zsh
 !/jesseduffield/
 /jesseduffield/lazygit/*
 !/jesseduffield/lazygit/config.yml
