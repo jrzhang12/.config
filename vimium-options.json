@@ -1,10 +1,10 @@
 {
-  "settingsVersion": "1.65.2",
+  "settingsVersion": "1.66",
   "exclusionRules": [],
   "filterLinkHints": false,
   "waitForEnterForFilteredHints": true,
   "hideHud": false,
-  "keyMappings": "map i scrollUp\nmap k scrollDown\nmap j scrollLeft\nmap I scrollPageUp\nmap K scrollPageDown\nmap u scrollUp count=8\nmap d scrollDown count=8\nmap h enterInsertMode\nmap [ goBack\nmap ] goForward\nmap J previousTab\nmap L nextTab\nmap a focusInput\nmap ; Vomnibar.activateTabSelection\nmap ' visitPreviousTab",
+  "keyMappings": "unmap x\nunmap X\nmap i scrollUp\nmap k scrollDown\nmap J scrollLeft\nmap L scrollRight\nmap I scrollPageUp\nmap K scrollPageDown\nmap u scrollUp count=8\nmap d scrollDown count=8\nmap h enterInsertMode\nmap [ goBack\nmap ] goForward\nmap j previousTab\nmap l nextTab\nmap a focusInput\nmap ; Vomnibar.activateTabSelection\nmap ' visitPreviousTab\nmap w removeTab \nmap W restoreTab",
   "linkHintCharacters": "sadfjklewcmpgh",
   "linkHintNumbers": "0123456789",
   "newTabUrl": "about:newtab",
