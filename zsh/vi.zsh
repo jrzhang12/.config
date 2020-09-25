@@ -1,5 +1,7 @@
+autoload edit-command-line; zle -N edit-command-line
 bindkey -v
 
+bindkey '^e' edit-command-line
 bindkey -M vicmd "h" vi-insert
 bindkey -M vicmd "H" vi-insert-bol
 bindkey -M vicmd "j" vi-backward-char
@@ -21,6 +23,7 @@ function zle-keymap-select {
        [[ $1 = 'beam' ]]; then
     echo -ne '\e[5 q'
   fi
+  zle reset-prompt
 }
 
 # Use beam shape cursor on startup
